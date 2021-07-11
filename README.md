@@ -10,8 +10,23 @@ information through the web. Fire-related information include Temperature, Humid
 based on cation level.
 
 # Fire Checkmate Appearance
+![외관](https://user-images.githubusercontent.com/73636140/125184126-39d11280-e256-11eb-9161-116abfc52a27.PNG)
+
+# Web
 
 # System Architecture
 ![아키텍처](https://user-images.githubusercontent.com/73636140/125184024-8ff18600-e255-11eb-97ce-a6fb599abf61.PNG)
 
-#
+# Used Technology
+- Node.js
+- MySQL
+- Python
+- Vue.js
+- Postman
+
+# Used Hardware
+- Raspberry Pi
+- Temperature Sensor DHT-11
+- Gas Detection Sensor MQ-2
+- Flame Detection Sensor SZH-EK086
+- LED Pin
