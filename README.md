@@ -13,6 +13,7 @@ based on cation level.
 ![외관](https://user-images.githubusercontent.com/73636140/125184126-39d11280-e256-11eb-9161-116abfc52a27.PNG)
 
 # Web
+![web](https://user-images.githubusercontent.com/73636140/125184248-37bb8380-e257-11eb-8dd4-02e87a1d38a2.PNG)
 
 # System Architecture
 ![아키텍처](https://user-images.githubusercontent.com/73636140/125184024-8ff18600-e255-11eb-97ce-a6fb599abf61.PNG)
