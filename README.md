@@ -7,7 +7,7 @@ Fire Checkmate
 # Fire Checkmate Introduction
 **Fire Checkmate** is an IoT Fire management system using a Mobius server. It gathers real-time fire-related information from rooms, and displays organized
 information through the web. Fire-related information includes Temperature, Humidity, Gas level, and Spark. We defined three caution levels. Actuators work
-based on cation level.
+based on caution level.
 
 # Fire Checkmate Appearance
 ![외관](https://user-images.githubusercontent.com/73636140/125184126-39d11280-e256-11eb-9161-116abfc52a27.PNG)
